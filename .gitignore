@@ -1,0 +1,5 @@
+--pycashe__/
+.venv
+*.pyc
+.env
+.idea/
